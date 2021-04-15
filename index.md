@@ -1,5 +1,3 @@
-# Ivan food preferences 
-
 ## Dislikes
 
 - Seafood (in general)
