@@ -10,5 +10,5 @@
 ## Safe options
 
 - Chicken rice
-- Nasi lemask
+- Nasi lemak
 - Meat: chicken, beef, pork
